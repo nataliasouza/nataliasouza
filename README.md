@@ -8,7 +8,7 @@
 
 ## Sobre mim <picture><img src = "https://user-images.githubusercontent.com/13735095/232337972-bd16dce3-f588-475f-89ca-2aa09f9839fc.gif?raw=true" width = 50px></picture> 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=nataliasouza.nataliasouza)
+<!--![Profile views](https://visitor-badge.glitch.me/badge?page_id=nataliasouza.nataliasouza)-->
 [![Github](https://img.shields.io/github/followers/nataliasouza?label=Follow&style=social)](https://github.com/nataliasouza)
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/13735095/232338371-af1d3ec0-1ff9-4ddb-8a61-7d6e7f7e522e.gif?raw=true" width = 250px></picture>
