@@ -78,7 +78,7 @@ Projeto: [App](https://ion.itau/)
   
 <div align="center">
   <a href="https://github.com/nataliasouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasouza&show_icons=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasouza&layout=compact&langs_count=10&show_icons=true&locale=en&theme=dark" alt="nataliasouza"/>
    
 <br>   
