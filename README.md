@@ -57,6 +57,8 @@
 ----
 
 ## Experiência de trabalho
+<details>
+  <summary> <b> Detalhamento </b> <i>(clique na setinha!)</i> </summary><br>
 
 > Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -70,12 +72,17 @@ Linguagens & Tecnologias: `C#`, `.NET`, `AWS`, `Splunk`,`Docker`\
 Projeto: [App](https://ion.itau/)
 <br><br>
 
+</details>
+
 ---- 
 
 ## Github Stats <picture> <img src = "https://user-images.githubusercontent.com/13735095/232344470-5f351c44-47d1-4bf9-be37-c2bd5b59cb97.gif?raw=true" width = 50px>  </picture> 
   
-<br>  
-  
+<br>
+
+<details>
+	<summary> <b> Detalhamento </b> <i>(clique na setinha!)</i> </summary><br>
+	
 <div align="center">
   <a href="https://github.com/nataliasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasouza&show_icons=true&count_private=true&theme=dark"/>
@@ -86,6 +93,8 @@ Projeto: [App](https://ion.itau/)
 ![Snake animation](https://github.com/nataliasouza/nataliasouza/blob/output/github-contribution-grid-snake.svg)
 -->   
 </div>
+
+</details>
 
 ----
   
