@@ -17,7 +17,7 @@
 
  - :computer: Engenheira de TI `Júnior` no [Banco Itaú](https://www.itau.com.br/).
  - :school: Desenvolvimento Back-End [UNOPAR](https://www.unopar.com.br/).
- - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL`.
+ - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL` e `AWS`.
 
 <br>
 
