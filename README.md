@@ -13,19 +13,19 @@
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/13735095/232338371-af1d3ec0-1ff9-4ddb-8a61-7d6e7f7e522e.gif?raw=true" width = 250px></picture>
  
-<br>
+<br />
 
  - :computer: Engenheira de TI `Júnior` no [Banco Itaú](https://www.itau.com.br/).
  - :school: Desenvolvimento Back-End [UNOPAR](https://www.unopar.com.br/).
  - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL` e `AWS`.
 
-<br>
+<br />
 
 ----
 
 ## Skills <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif?raw=true" width = 50px></picture> 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br />
  
  **Aplicações e Dados**
  
@@ -42,6 +42,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
+
+ <br />
  
  **Ferramentas de Desenvolvimento**
 
@@ -49,10 +51,17 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br />
+
+  **Certificações**
+
+  <a href="https://www.credly.com/badges/b0693a4a-ee09-4ecd-a584-4556c7d590db">
+  <img height="90px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Link selo da certificação aws cloud practitioner"/></a>
  
 </div>
 
-<br>
+<br />
 
 ----
 
@@ -62,7 +71,7 @@
 
 > Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<br>
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Banco-Itau" src="https://ion.itau/assets/images/svg/logo.svg"/>](https://www.itau.com.br/)
 
@@ -78,7 +87,7 @@ Projeto: [App](https://ion.itau/)
 
 ## Github Stats <picture> <img src = "https://user-images.githubusercontent.com/13735095/232344470-5f351c44-47d1-4bf9-be37-c2bd5b59cb97.gif?raw=true" width = 50px>  </picture> 
   
-<br>
+<br />
 
 <details>
 	<summary> <b> Detalhamento </b> <i>(clique na setinha!)</i> </summary><br>
@@ -88,7 +97,7 @@ Projeto: [App](https://ion.itau/)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliasouza&show_icons=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasouza&layout=compact&langs_count=10&show_icons=true&locale=en&theme=dark" alt="nataliasouza"/>
    
-<br>   
+<br />   
 <!--   
 ![Snake animation](https://github.com/nataliasouza/nataliasouza/blob/output/github-contribution-grid-snake.svg)
 -->   
@@ -99,7 +108,7 @@ Projeto: [App](https://ion.itau/)
 ----
   
 <div align=center style="display: inline_block"><br>
- <h2>Contato</h2> <br>
+ <h2>Contato</h2> <br />
 
 <a href="mailto:nataliasouza.ti@hotmail.com"><img img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email de contato"/></a>
 <a href="https://github.com/nataliasouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Conta do GitHub da Natália Souza"/></a>
