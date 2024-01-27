@@ -15,10 +15,9 @@
  
 <br>
 
-- :computer: Engenheira de TI `Júnior` no [Banco Itaú](https://www.itau.com.br/).
-- :school: Desenvolvimento Back-End [UNOPAR](https://www.unopar.com.br/).
-- :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL` e `Python`.
-
+ - :computer: Engenheira de TI `Júnior` no [Banco Itaú](https://www.itau.com.br/).
+ - :school: Desenvolvimento Back-End [UNOPAR](https://www.unopar.com.br/).
+ - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL`.
 
 <br>
 
@@ -42,6 +41,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
  
  **Ferramentas de Desenvolvimento**
 
