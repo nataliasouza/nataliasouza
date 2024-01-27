@@ -99,12 +99,11 @@ Projeto: [App](https://ion.itau/)
 ----
   
 <div align=center style="display: inline_block"><br>
-
  <h2>Contato</h2> <br>
 
- <a href="mailto:nataliasouza.ti@hotmail.com"><img img src="https://img.shields.io/badge/hotmail-blue.svg?style=plastic&logo=outlook&logoColor=white" alt="hotmaail"/></a>
-	<a href="https://github.com/nataliasouza"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nat%C3%A1lia-souza-oliveira-22aa82102/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <br><br>
+<a href="mailto:nataliasouza.ti@hotmail.com"><img img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email de contato"/></a>
+<a href="https://github.com/nataliasouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Conta do GitHub da Natália Souza"/></a>
+<a href="https://www.linkedin.com/in/nat%C3%A1lia-souza-oliveira-22aa82102/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conta do LinkedIn da Natália Souza"/></a> <br><br>
 
 </div>  
  
