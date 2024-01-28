@@ -1,7 +1,7 @@
 <h1 align="center"><b>Olá! Natt Souza aqui! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/NataliaSouza/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+Bem+vindxs!;Back-End+Engineer,;Estudante+Desenvolvimento+Back-End,;Meu+aprendizado+tem+foco+em+CSharp+e+.NET,;Front-end+também+tem+meu+<3,;Amo+aprender+coisas+novas+&hearts;">
+  <a href="https://github.com/NataliaSouza/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+Bem+vindxs!;Back-End+Engineer,;Estudante+Desenvolvimento+Back-End,;Foco+do+meu+aprendizado:+CSharp+e+.NET,;Front-end+também+tem+meu+<3,;Amo+aprender+coisas+novas+&hearts;">
  </a>
 </p>
 
@@ -10,8 +10,7 @@
 <!--![Profile views](https://visitor-badge.glitch.me/badge?page_id=nataliasouza.nataliasouza)-->
 [![Github](https://img.shields.io/github/followers/nataliasouza?label=Follow&style=social)](https://github.com/nataliasouza)
 
-	
-<img style="display: flex" align="right" src="https://user-images.githubusercontent.com/13735095/232338371-af1d3ec0-1ff9-4ddb-8a61-7d6e7f7e522e.gif?raw=true" width = 350px>
+<img width = 350px margin= 50px align="right" src="https://user-images.githubusercontent.com/13735095/232338371-af1d3ec0-1ff9-4ddb-8a61-7d6e7f7e522e.gif?raw=true" >
 
 <br>
 	
@@ -21,7 +20,7 @@
 
 - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL` e `AWS`.	
 
-<br> <br>
+<br> <br> 
 
 ----
 
@@ -118,9 +117,9 @@ Projeto: [App](https://ion.itau/)
 <div align=center style="display: inline_block"><br>
  <h2>Contato</h2> <br>
 
-<a href="mailto:nataliasouza.ti@hotmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email de contato" height=28px /></a>
+<a href="mailto:nataliasouza.ti@hotmail.com"><img src="https://img.shields.io/badge/-Email-100000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email de contato" height=28px /></a>
 <a href="https://github.com/nataliasouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Conta do GitHub da Natália Souza"  height=28px /></a>
-<a href="https://www.linkedin.com/in/nat%C3%A1lia-souza-oliveira-22aa82102/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conta do LinkedIn da Natália Souza" height=28px /></a> <br><br>
+<a href="https://www.linkedin.com/in/nat%C3%A1lia-souza-oliveira-22aa82102/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="Conta do LinkedIn da Natália Souza" height=28px /></a> <br><br>
 
 </div>  
  
