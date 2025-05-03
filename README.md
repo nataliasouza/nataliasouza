@@ -14,7 +14,7 @@
 
 <br>
 	
-- :computer: Engenheira de TI `Júnior` no [Banco Itaú](https://www.itau.com.br/).
+- :computer: Engenheira de TI no [Banco Itaú](https://www.itau.com.br/).
 
 - :school: Desenvolvimento Back-End [UNOPAR](https://www.unopar.com.br/).
 
