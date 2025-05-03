@@ -18,7 +18,7 @@
 
 - :woman_technologist: Atualmente estou aprendendo sobre `C#`,`.NET`, `SQL` e `AWS`.	
 
-<br> <br> 
+<br> <br> <br>
 
 ----
 
